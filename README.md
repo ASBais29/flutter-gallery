@@ -1,6 +1,6 @@
 # photo_gallery
 
-A new Flutter application.
+A new Flutter application. Location based search in photo gallery.
 
 ## Getting Started
 
